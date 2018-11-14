@@ -1,0 +1,1 @@
+print "HaHaHa :D\n"
